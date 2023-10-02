@@ -15,5 +15,6 @@ https://lxinyu1999.github.io/Ashiton.github.io/
 - HTML, CSS & Javascript
 - Git
 
+<!-- 图片路径必须用/，不能用\，否则github不认！！ -->
 ## Display
 ![images](README_img/home_page.png)
