@@ -8,7 +8,7 @@ https://lxinyu1999.github.io/Ashiton.github.io/
 
 [![Price](https://img.shields.io/badge/price-FREE-0098f7.svg)](https://github.com/Lxinyu1999/Ashiton.github.io)
 [![GitHub package version](https://img.shields.io/github/package-json/v/Lxinyu1999/Ashiton.github.io.svg)](https://github.com/Lxinyu1999/Ashiton.github.io)
-[![License: FOWDL v1.0](https://img.shields.io/badge/license-FOWDL-blue.svg)](https://github.com/Lxinyu1999/Ashiton.github.io/LICENSE)
+[![License: MIT v1.0](https://img.shields.io/badge/license-FOWDL-blue.svg)](https://github.com/Lxinyu1999/Ashiton.github.io/LICENSE)
 ![images](https://img.shields.io/badge/name-lxy-green)
 
 ## Implementation
