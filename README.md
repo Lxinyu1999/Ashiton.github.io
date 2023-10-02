@@ -16,4 +16,4 @@ https://lxinyu1999.github.io/Ashiton.github.io/
 - Git
 
 ## Display
-![images](README_img\home_page.png)
+![images](README_img/home_page.png)
